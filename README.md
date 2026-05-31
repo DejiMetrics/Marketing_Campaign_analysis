@@ -27,24 +27,28 @@ To ensure accurate insights, the dataset was thoroughly prepared. This involved 
 
 **Data Analysis**
 
-	which of the top 10 campaigns yielded the greatest return on investment (ROI)?
+. which of the top 10 campaigns yielded the greatest return on investment (ROI)?
+
 Critical assessment of the 'Top 10 Campaigns by ROI' visualization indicates a convergence at the highest performance tier, with multiple campaigns exhibiting an equivalent ROI of 2. This presents a limitation in discerning the absolute top performer based solely on this metric. Despite the limitation, a channel-specific slicer highlighted that the 'Display' marketing channel was instrumental in driving the greatest number of campaigns achieving this elevated ROI. The ROI was calculated correctly based on the following formular ROI=(Revenue-Cost)/Cost
 
 <img width="452" height="108" alt="image" src="https://github.com/user-attachments/assets/f969559c-5838-4051-9fdb-98c50a32dd0f" />
 
 
 •	which channels are responsible for generating the highest overall revenue?
+
 Analysis of the 'Total Revenue by Channel' chart reveals that the Display channel is the leading revenue generator, with approximately $10.6 million. This channel's significant revenue is further supported by its contribution to about 20% of total conversions, highlighting a strong correlation between high volume and high revenue.
 
 <img width="445" height="199" alt="image" src="https://github.com/user-attachments/assets/9d0a29b8-7d79-4f35-9944-09aed1d1f738" />
 
 
 •	on which platform or through which method is the sales funnel most effective at converting impressions into completed conversions?
+
 The Total Impressions and Conversions by Channel data highlights a key insight: despite lower impression and conversion volumes from Search and Social channels, the Influencer channel achieves significantly higher conversions relative to its impressions. This suggests that the Influencer channel is the most effective for maximizing impression-to-conversion rates.
 
 <img width="452" height="188" alt="image" src="https://github.com/user-attachments/assets/59d10029-de9c-46e5-bc74-45102691449f" />
 
 •	are there identifiable seasonal trends or a specific month in which campaign performance is notably higher?
+
 There are identifiable seasonal trends in campaign performance, particularly visible in the monthly leads and conversions generation analysis and monthly cost and revenue generation analysis graphs. In leads and conversions graph, sum of conversions are significantly higher in the month of April, July, August and October. There is a dip in the month of February, march, September and November and a slight increase in the January, May, June and December. However, in mostly cost and revenue analysis, April, May and October were the months where highest revenue were generated. 
 
 <img width="452" height="96" alt="image" src="https://github.com/user-attachments/assets/c99cffc6-974f-40b3-b060-36b6dedd23ac" />
